@@ -3,5 +3,3 @@ for i in range(0:2):
 for j in range(0:2):
     print(j)
 ## New Comments
-while(True):
-    print("oops!")
